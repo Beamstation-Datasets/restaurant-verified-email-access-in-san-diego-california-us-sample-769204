@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in San Diego, California, US
 
-> Free BeamStation sample export with 130 rows and masked direct-contact fields.
+> Free BeamStation sample export with 117 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `769204` |
 | Location | San Diego |
 | Category | Restaurants |
-| Full dataset size | 1,302 records |
-| Free sample size | 130 records (9.98%) |
-| Last export | 2026-04-15T04:20:51.925914+00:00 |
+| Full dataset size | 1,171 records |
+| Free sample size | 117 records (9.99%) |
+| Last export | 2026-04-22T09:50:37.684444+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-san-diego-california-us-sample-769204/releases/download/sample-latest/beamstation_769204_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
