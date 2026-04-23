@@ -1,12 +1,12 @@
 {
-  "export_job_id": "9b860328-16b3-48ed-98ce-def57d980bac",
+  "export_job_id": "edfd9279-f437-432e-b2cb-f456cef3f3dd",
   "id_short": 769204,
-  "published_at": "2026-04-19T07:13:27Z",
+  "published_at": "2026-04-23T07:09:23Z",
   "repo_name": "restaurant-verified-email-access-in-san-diego-california-us-sample-769204",
   "sample_asset_name": "beamstation_769204_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/769204/beamstation_769204_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 130,
-  "sample_sha256": "14f5044783c79a210cc640d2421eafac427ee5dec13c7e769f50f7ba010396bc",
-  "sample_size_bytes": 571064,
-  "total_records": 1302
+  "sample_records": 117,
+  "sample_sha256": "9b435a4c90f33e1cf46a93d744391ea8ca4efd9a6627db1aebe333a62879de3d",
+  "sample_size_bytes": 512323,
+  "total_records": 1171
 }
